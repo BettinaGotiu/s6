@@ -1,0 +1,8 @@
+[Student]-(Sign In)
+[Teacher]-(Sign In)
+[Student]-(Check Timetable)
+[Teacher]-(Check Timetable)
+[Student]-(Check Grades)
+[Teacher]-(Check Grades)
+[Teacher]-(Update Attendance)
+[Teacher]-(Update Grades)
